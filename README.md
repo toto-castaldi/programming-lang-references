@@ -7,7 +7,7 @@ programming lang references
 
 ```bash
 mvn clean install
-java -jar target/lang-ref-1.0-SNAPSHOT.jar
+    java -jar target/lang-ref-1.0-SNAPSHOT.jar
 ```
 
 Tested With (mvn --version)
@@ -23,8 +23,9 @@ default keyword in Interfaces
 
 ## Lambdas
 
-(000) Write an implementation of the Comparator Interace using Lambda
+(000) JAVA8 : Write an implementation of the Comparator Interace using Lambda
 
 ## New Functional Interfaces
 
-(001) Print all elements of a List of Objects using Consumer Interface 
+(001) JAVA8 : Print all elements of a List of Objects using Consumer Interface 
+(002) JAVA8 : Writa an implementation of java.util.functio.Function that returns the uppercase version of a String. Write it with Lambda
