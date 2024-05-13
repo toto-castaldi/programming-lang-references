@@ -28,4 +28,5 @@ default keyword in Interfaces
 ## New Functional Interfaces
 
 (001) JAVA8 : Print all elements of a List of Objects using Consumer Interface 
-(002) JAVA8 : Writa an implementation of java.util.functio.Function that returns the uppercase version of a String. Write it with Lambda
+(002) JAVA8 : Write an implementation of java.util.functio.Function that returns the uppercase version of a String. Write it with Lambda
+(003) JAVA8 : Write a Fibonacci series implementation using java.util.function.Supplier
