@@ -34,3 +34,4 @@ default keyword in Interfaces
 (003) JAVA8 : Write a Fibonacci series implementation using java.util.function.Supplier
 
 (004) JAVA8 : Print an internal field of a Bean using Method Reference. There are a list of Bean so you can use a Consumer
+(005) JAVA8 : Filter and collect a List of bean into a Map. Use StreamAPI
