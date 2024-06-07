@@ -40,3 +40,5 @@ default keyword in Interfaces
 (006) JAVA8 : Starting from a List of Bean where each Bean has a property with type List<String> , print all the values of that property in the collection of bean. Use FlatMap
 
 (007) JAVA8 : Find max of Integer using Stream's Reduce method. Consider an Empty List of Integer as well
+
+(008) JAVA8 : Fibonacci sequence with a Infinite Stream Of Integer build by Stream.generate static method 
